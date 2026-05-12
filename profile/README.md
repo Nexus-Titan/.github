@@ -1,6 +1,6 @@
 #  <img src="https://github.com/Nexus-Titan.png" width="34"> Nexus Titan
 
-**Nexus Titan** is the collaborative extension of the TIWUT ecosystem. This organization serves as a dedicated space for the community and contributors to evolve, refine, and expand upon the core technologies built for digital autonomy.
+**Nexus Titan** is the collaborative extension of the [TIWUT ecosystem](https://github.com/tiwut). This organization serves as a dedicated space for the community and contributors to evolve, refine, and expand upon the core technologies built for digital autonomy.
 
 ---
 
@@ -10,11 +10,19 @@ Our mission is to provide independent, transparent, and powerful tools that retu
 
 ### Evolution through Collaboration
 
-While rooted in the original TIWUT philosophy, **Nexus Titan** is designed for growth beyond a single developer. We focus on:
+While rooted in the original [TIWUT](https://github.com/tiwut) philosophy, **Nexus Titan** is designed for growth beyond a single developer. We focus on:
 
 * **The Nexus Language:** Advancing a programming language built for clarity and raw power.
 * **The Titan Infrastructure:** Scaling decentralized approaches to application distribution.
 * **System Integrity:** Maintaining high-performance, low-level engineering without corporate bloat.
+
+### Core Projects
+
+| Project | Description |
+| :--- | :--- |
+| **[TiwutOS](https://github.com/Nexus-Titan/TiwutOS)** | A custom operating system built for independence. |
+| **[Nexus](https://github.com/tiwut/Nexus-the-programming-language)** | A programming language designed for clarity and power. |
+| **[Titan Store](https://github.com/tiwut/TITAN-STORE)** | A decentralized approach to native app distribution. |
 
 ### Get Involved
 
