@@ -1,4 +1,4 @@
-#  Nexus Titan
+#  <img src="https://github.com/Nexus-Titan.png" width="34"> Nexus Titan
 
 **Nexus Titan** is the collaborative extension of the TIWUT ecosystem. This organization serves as a dedicated space for the community and contributors to evolve, refine, and expand upon the core technologies built for digital autonomy.
 
