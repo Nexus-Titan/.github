@@ -21,8 +21,8 @@ While rooted in the original [Tiwut](https://github.com/tiwut) philosophy, **Nex
 | Project | Description |
 | :--- | :--- |
 | **[TiwutOS](https://github.com/Nexus-Titan/TiwutOS)** | A custom operating system built for independence. |
-| **[Nexus](https://github.com/tiwut/Nexus-the-programming-language)** | A programming language designed for clarity and power. |
-| **[Titan Store](https://github.com/tiwut/TITAN-STORE)** | A decentralized approach to native app distribution. |
+| **[Nexus](https://github.com/Nexus-Titan/Nexus-the-programming-language)** | A programming language designed for clarity and power. |
+| **[Titan Store](https://github.com/Nexus-Titan/TITAN-STORE)** | A decentralized approach to native app distribution. |
 
 ### Get Involved
 
