@@ -24,6 +24,11 @@ While rooted in the original [Tiwut](https://github.com/tiwut) philosophy, **Nex
 | **[Nexus](https://github.com/Nexus-Titan/Nexus-the-programming-language)** | A programming language designed for clarity and power. |
 | **[Titan Store](https://github.com/Nexus-Titan/TITAN-STORE)** | A decentralized approach to native app distribution. |
 
+#### Get HomeBrew <img src="https://github.com/Homebrew.png" width="34"> Repository:
+```bash
+brew tap Nexus-Titan/tab https://github.com/Nexus-Titan/homebrew-tap.git
+```
+
 ### Get Involved
 
 This organization is open to those who value:
